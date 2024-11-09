@@ -1,0 +1,1 @@
+SELECT * FROM CLASS WHERE name LIKE "ma%"

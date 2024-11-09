@@ -1,0 +1,1 @@
+ALTER TABLE CLASS ADD age int

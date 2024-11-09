@@ -1,0 +1,1 @@
+select distinct age, id,name,depid from class

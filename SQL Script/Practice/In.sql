@@ -1,0 +1,1 @@
+select id,name,age from class where age IN(25,30,35);

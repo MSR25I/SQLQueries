@@ -1,0 +1,1 @@
+select id,name,age from class where age between 20 and 25

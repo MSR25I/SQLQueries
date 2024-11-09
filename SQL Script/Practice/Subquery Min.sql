@@ -1,0 +1,1 @@
+select id,name,age from class where age=(select MIN(age) from class)
